@@ -24,6 +24,6 @@ public:
 	virtual void Tick(float DeltaTime) override;
 
 	UFUNCTION(BlueprintCallable)
-	void AstridFunction();
+	int AstridFunction();
 
 };

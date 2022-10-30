@@ -25,9 +25,10 @@ void ATestActor::Tick(float DeltaTime)
 
 }
 
-void ATestActor::AstridFunction()
+int ATestActor::AstridFunction()
 {
 	UE_LOG(LogTemp, Warning, TEXT("Es passiert etwas"));
+	return 5;
 }
 
 
