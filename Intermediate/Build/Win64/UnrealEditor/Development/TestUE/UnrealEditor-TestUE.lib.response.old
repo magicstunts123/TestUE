@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-TestUE.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\TEST\TestUE\Intermediate\Build\Win64\TestUEEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"E:\TEST\TestUE\Intermediate\Build\Win64\UnrealEditor\Development\TestUE\TestActor.cpp.obj"
+"E:\TEST\TestUE\Intermediate\Build\Win64\UnrealEditor\Development\TestUE\TestUE.cpp.obj"
+"E:\TEST\TestUE\Intermediate\Build\Win64\UnrealEditor\Development\TestUE\TestActor.gen.cpp.obj"
+"E:\TEST\TestUE\Intermediate\Build\Win64\UnrealEditor\Development\TestUE\TestUE.init.gen.cpp.obj"
+"E:\TEST\TestUE\Intermediate\Build\Win64\UnrealEditor\Development\TestUE\Default.rc2.res"
+/OUT:"E:\TEST\TestUE\Intermediate\Build\Win64\UnrealEditor\Development\TestUE\UnrealEditor-TestUE.lib"

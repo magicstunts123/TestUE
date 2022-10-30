@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\test\\testue\\source\\testue\\private\\testactor.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\test\\testue\\intermediate\\build\\win64\\testueeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "e:\\test\\testue\\intermediate\\build\\win64\\unrealeditor\\development\\testue\\definitions.testue.h",
+            "e:\\test\\testue\\source\\testue\\public\\testactor.h",
+            "e:\\test\\testue\\intermediate\\build\\win64\\unrealeditor\\inc\\testue\\testactor.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

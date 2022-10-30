@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\TEST\\TestUE\\Source\\TestUE\\TestUE.Build.cs",
+		"E:\\TEST\\TestUE\\Source\\TestUE.Target.cs",
+		"E:\\TEST\\TestUE\\Source\\TestUEEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}

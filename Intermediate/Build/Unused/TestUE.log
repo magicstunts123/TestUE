@@ -1,0 +1,34 @@
+﻿  Using bundled DotNet SDK
+  Log file: C:\Users\thoma\AppData\Local\UnrealBuildTool\Log.txt
+  Using 'git status' to determine working set for adaptive non-unity build (E:\TEST\TestUE).
+  Deleted hot-reload file: E:\TEST\TestUE\Binaries\Win64\UnrealEditor-TestUE-4590.dll
+  Deleted hot-reload file: E:\TEST\TestUE\Binaries\Win64\UnrealEditor-TestUE-4590.pdb
+  Deleted hot-reload file: E:\TEST\TestUE\Intermediate\Build\Win64\UnrealEditor\Development\TestUE\UnrealEditor-TestUE-4590.lib
+  Building TestUEEditor...
+  Using Visual Studio 2022 14.32.31332 toolchain (F:\VisualStudio2022\VC\Tools\MSVC\14.32.31326) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  [Adaptive Build] Excluded from TestUE unity file: TestActor.cpp, TestUE.cpp
+  Distributing 3 actions to XGE
+  --------------------Build System Warning---------------------------------------
+  License is invalid:
+      License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+      This build will run in standalone mode.
+  
+  -------------------------------------------------------------------------------
+  
+  Build ID: {BE0A97D9-A094-4204-B72D-7E6C926FE73F}
+  
+  --------------------Project: Default-------------------------------------------
+  [1/3] UnrealEditor-TestUE.dll (0:01.57 at +0:00)
+     Creating library E:\TEST\TestUE\Intermediate\Build\Win64\UnrealEditor\Development\TestUE\UnrealEditor-TestUE.suppressed.lib and object E:\TEST\TestUE\Intermediate\Build\Win64\UnrealEditor\Development\TestUE\UnrealEditor-TestUE.suppressed.exp
+  [2/3] UnrealEditor-TestUE.lib (0:00.26 at +0:01)
+     Creating library E:\TEST\TestUE\Intermediate\Build\Win64\UnrealEditor\Development\TestUE\UnrealEditor-TestUE.lib and object E:\TEST\TestUE\Intermediate\Build\Win64\UnrealEditor\Development\TestUE\UnrealEditor-TestUE.exp
+  [3/3] TestUEEditor.target (0:00.65 at +0:01)
+  ---------------------- Done ----------------------
+  
+      Rebuild All: 1 succeeded, 0 failed, 0 skipped
+  
+  1 build system warning(s):
+     - License is invalid
+  
+  Total time in XGE executor: 2,85 seconds
+  Total execution time: 4,56 seconds
